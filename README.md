@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strikerx3d&label=Profile%20views&color=0e75b6&style=flat" alt="strikerx3d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strikerx3d" alt="strikerx3d" /></a> </p>
-
 - 🌱 I’m currently learning **Front-end courses**
 
 - 🤝 I’m looking for help with **your websites**
