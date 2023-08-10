@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikerx3d&show_icons=true&locale=en&layout=compact" alt="strikerx3d" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strikerx3d&show_icons=true&locale=en" alt="strikerx3d" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strikerx3d&" alt="strikerx3d" /></p>
