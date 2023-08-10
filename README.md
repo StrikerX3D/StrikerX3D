@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/striker media" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="striker media" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/striker-media-107068241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="striker media" height="30" width="40" /></a>
 <a href="https://instagram.com/strikerx3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="strikerx3d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/strikerx3dmedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="strikerx3dmedia" height="30" width="40" /></a>
 <a href="https://discord.gg/vWr2u9xryK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vWr2u9xryK" height="30" width="40" /></a>
