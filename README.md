@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/IMAGE_ID.png](https://i.imgur.com/LhP9BbL.png)" width="100%" alt="Striker Media Banner">
+  <img src="(https://i.imgur.com/LhP9BbL.png)" width="100%" alt="Striker Media Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
@@ -17,7 +17,7 @@
 ![](https://streak-stats.demolab.com/?user=Luzyo&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Luzyo&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/luzyo.me) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/luzyo.me) 
 
 ---
 [![](https://komarev.com/ghpvc/?username=Luzyo&icon=2&color=4)](https://visitcount.itsvg.in)
