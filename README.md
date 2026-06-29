@@ -1,4 +1,3 @@
-![Striker Media Banner]([https://i.imgur.com/LhP9BbL.png])
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
 # 💫 About Me:
