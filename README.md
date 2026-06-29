@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://i.imgur.com/LhP9BbL.png)" width="100%" alt="Striker Media Banner" />
+  <img src="https://imgur.com/LhP9BbL" width="100%" alt="Striker Media Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
