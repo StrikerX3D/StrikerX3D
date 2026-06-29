@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
 # 💫 About Me:
-# 🎨 Framer UI/UX & Brand Identity Expert<br># 🤖 Building my own AI agent ecosystem<br># 🚀 Founder & entrepreneur<br># 💼 Working on my own business<br># 🤝 Open to selected collaborations
+* 🎨 Framer UI/UX & Brand Identity Expert<br>* 🤖 Building my own AI agent ecosystem<br>* 🚀 Founder & entrepreneur<br>* 💼 Working on my own business<br>* 🤝 Open to selected collaborations
 
 
 ## 🌐 Socials:
