@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/a/C2YBg9r)
+<blockquote class="imgur-embed-pub" lang="en" data-id="LhP9BbL"><a href="https://imgur.com/LhP9BbL">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
 # 💫 About Me:
