@@ -1,4 +1,6 @@
-![]([https://imgur.com/a/LhP9BbL])
+<p align="center">
+  <img src="[https://i.imgur.com/IMAGE_ID.png](https://i.imgur.com/LhP9BbL.png)" width="100%" alt="Striker Media Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Luzyo</h1>
 
 # 💫 About Me:
